@@ -1,2 +1,2 @@
-# hello-world
+# Pytest project
 sample project
